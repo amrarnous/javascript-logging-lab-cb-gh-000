@@ -1,1 +1,1 @@
-console.warn('I\'m Not In Danger, I\'m The Danger')
+console.error('I\'m Not In Danger, I\'m The Danger')
